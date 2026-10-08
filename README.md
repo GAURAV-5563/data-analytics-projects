@@ -1,3 +1,3 @@
 # data-analytics-projects
 <br>
-Author - Gaurav Bisht
+Author - Gaurav Bisht (gaurav)
